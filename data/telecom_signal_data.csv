@@ -1,0 +1,1001 @@
+tower_id,region,signal_strength,latency,network_type,user_load
+T0001,LB Nagar,-71.3,280.6,5G,219
+T0002,Ghatkesar,-89.4,129.1,3G,74
+T0003,Uppal,-88.8,225.6,3G,296
+T0004,Kukatpally,-78.0,94.9,5G,234
+T0005,LB Nagar,-86.0,125.8,5G,134
+T0006,Banjara Hills,-67.0,84.8,5G,104
+T0007,Secunderabad,-86.3,20.7,5G,193
+T0008,LB Nagar,-85.0,147.1,4G,144
+T0009,Uppal,-75.8,160.3,4G,191
+T0010,Kukatpally,-83.9,235.3,4G,216
+T0011,Ghatkesar,-92.3,213.6,3G,205
+T0012,Uppal,-91.0,214.7,4G,273
+T0013,Uppal,-74.6,72.1,5G,269
+T0014,Secunderabad,-93.6,186.8,5G,228
+T0015,Miyapur,-66.0,276.6,5G,168
+T0016,Kukatpally,-86.9,180.4,5G,226
+T0017,Hyderabad South,-73.8,296.3,4G,58
+T0018,Uppal,-86.3,311.5,5G,235
+T0019,Miyapur,-89.2,128.5,3G,222
+T0020,Hyderabad South,-77.5,94.2,4G,199
+T0021,Kukatpally,-69.5,89.1,4G,209
+T0022,Hyderabad North,-82.5,28.7,5G,246
+T0023,Banjara Hills,-80.7,108.5,3G,264
+T0024,Miyapur,-71.9,246.6,4G,246
+T0025,Ameerpet,-71.6,26.3,5G,91
+T0026,Hyderabad North,-80.4,67.0,3G,102
+T0027,Banjara Hills,-84.4,139.8,4G,273
+T0028,Secunderabad,-79.2,79.8,3G,236
+T0029,LB Nagar,-81.9,107.8,5G,123
+T0030,Ghatkesar,-76.9,109.0,5G,88
+T0031,Ameerpet,-91.9,129.4,5G,171
+T0032,Secunderabad,-77.2,91.6,4G,64
+T0033,Kukatpally,-87.2,85.1,4G,248
+T0034,Secunderabad,-70.9,224.7,4G,206
+T0035,LB Nagar,-86.7,234.0,4G,172
+T0036,Kukatpally,-86.6,39.6,4G,160
+T0037,Ameerpet,-75.5,70.8,3G,180
+T0038,LB Nagar,-79.9,235.1,3G,132
+T0039,Hyderabad South,-57.2,51.7,5G,59
+T0040,Ghatkesar,-96.3,167.0,3G,141
+T0041,Ameerpet,-78.9,24.7,5G,78
+T0042,Hyderabad South,-68.7,253.8,4G,256
+T0043,Banjara Hills,-85.8,353.5,4G,84
+T0044,Ameerpet,-89.1,164.6,5G,55
+T0045,Banjara Hills,-88.7,142.5,5G,189
+T0046,Kukatpally,-96.1,124.2,4G,160
+T0047,Hyderabad South,-66.5,212.5,5G,87
+T0048,Ghatkesar,-83.3,195.4,4G,126
+T0049,LB Nagar,-84.5,230.3,5G,142
+T0050,Uppal,-101.2,99.8,3G,196
+T0051,Secunderabad,-94.3,177.2,5G,116
+T0052,Hyderabad North,-65.3,106.6,3G,185
+T0053,Ghatkesar,-77.0,65.4,3G,57
+T0054,Hyderabad South,-68.3,146.7,3G,296
+T0055,Uppal,-69.6,76.2,3G,171
+T0056,Ghatkesar,-90.0,243.9,3G,133
+T0057,Hyderabad South,-55.7,81.0,5G,224
+T0058,Miyapur,-60.5,179.1,4G,181
+T0059,Miyapur,-85.6,101.7,4G,228
+T0060,Banjara Hills,-115.7,172.2,5G,134
+T0061,Ghatkesar,-83.6,108.1,4G,244
+T0062,Miyapur,-77.6,49.4,4G,94
+T0063,Hyderabad South,-85.7,188.7,3G,185
+T0064,Banjara Hills,-82.2,131.2,3G,136
+T0065,Hyderabad South,-88.3,172.9,3G,65
+T0066,Banjara Hills,-70.8,115.7,4G,126
+T0067,Ghatkesar,-79.4,43.8,4G,244
+T0068,Uppal,-70.5,236.7,4G,289
+T0069,LB Nagar,-67.8,208.9,4G,58
+T0070,Ameerpet,-101.7,104.6,4G,109
+T0071,Uppal,-87.7,155.6,4G,127
+T0072,Kukatpally,-86.2,233.4,3G,126
+T0073,Hyderabad South,-54.3,113.4,5G,294
+T0074,Kukatpally,-78.5,125.8,4G,298
+T0075,Uppal,-71.9,169.5,4G,120
+T0076,Banjara Hills,-98.8,113.3,5G,64
+T0077,Ameerpet,-78.6,218.6,4G,120
+T0078,Ameerpet,-70.2,136.5,3G,151
+T0079,Hyderabad North,-71.4,87.3,4G,275
+T0080,Ameerpet,-73.8,198.7,4G,218
+T0081,LB Nagar,-79.9,58.6,4G,71
+T0082,Ameerpet,-79.4,311.2,4G,201
+T0083,Uppal,-96.9,276.6,5G,162
+T0084,Hyderabad North,-89.0,191.1,5G,278
+T0085,Uppal,-77.7,184.3,5G,221
+T0086,Uppal,-87.2,180.6,4G,50
+T0087,Secunderabad,-73.1,110.9,5G,59
+T0088,Hyderabad North,-75.3,173.8,5G,284
+T0089,Uppal,-66.3,76.1,3G,257
+T0090,Secunderabad,-70.4,190.3,4G,159
+T0091,Secunderabad,-77.7,219.4,4G,249
+T0092,Hyderabad North,-72.5,119.8,5G,233
+T0093,Kukatpally,-69.9,102.4,5G,162
+T0094,Banjara Hills,-85.1,53.0,4G,266
+T0095,LB Nagar,-83.3,266.6,4G,99
+T0096,Banjara Hills,-81.0,108.7,4G,61
+T0097,Ameerpet,-84.8,134.1,3G,138
+T0098,LB Nagar,-69.8,174.0,4G,258
+T0099,Ameerpet,-86.3,172.6,3G,237
+T0100,Uppal,-67.5,209.7,5G,203
+T0101,Hyderabad South,-83.7,119.7,3G,287
+T0102,Hyderabad North,-75.3,58.9,3G,161
+T0103,LB Nagar,-78.3,44.9,4G,127
+T0104,LB Nagar,-89.8,103.7,3G,218
+T0105,Uppal,-80.2,73.9,4G,213
+T0106,Kukatpally,-76.7,125.7,3G,170
+T0107,Secunderabad,-80.6,254.6,5G,72
+T0108,Uppal,-93.4,119.8,4G,220
+T0109,Miyapur,-63.0,119.8,5G,183
+T0110,Secunderabad,-79.1,148.7,3G,288
+T0111,Hyderabad North,-87.9,117.6,4G,246
+T0112,Secunderabad,-63.8,144.6,5G,220
+T0113,Kukatpally,-73.8,193.3,5G,74
+T0114,Secunderabad,-92.0,220.8,3G,67
+T0115,Hyderabad North,-90.4,230.3,4G,239
+T0116,Kukatpally,-82.2,314.5,4G,190
+T0117,Banjara Hills,-77.0,195.5,4G,92
+T0118,LB Nagar,-73.8,328.8,5G,127
+T0119,LB Nagar,-70.5,87.9,4G,77
+T0120,Ameerpet,-74.6,317.3,3G,195
+T0121,Banjara Hills,-66.5,119.6,4G,108
+T0122,Banjara Hills,-78.7,127.4,5G,237
+T0123,Secunderabad,-87.6,140.4,4G,112
+T0124,LB Nagar,-80.0,132.5,4G,234
+T0125,Hyderabad North,-80.7,156.9,4G,141
+T0126,Ghatkesar,-105.8,103.6,4G,228
+T0127,Ghatkesar,-85.6,216.4,5G,105
+T0128,Kukatpally,-76.9,105.8,3G,204
+T0129,LB Nagar,-84.2,202.4,5G,209
+T0130,LB Nagar,-86.5,272.2,3G,160
+T0131,Ghatkesar,-70.9,121.4,3G,186
+T0132,LB Nagar,-89.2,213.6,5G,281
+T0133,Secunderabad,-72.9,194.7,3G,273
+T0134,Miyapur,-93.3,330.2,5G,261
+T0135,Hyderabad South,-52.4,109.6,4G,269
+T0136,Banjara Hills,-82.2,213.6,5G,274
+T0137,Ameerpet,-83.2,19.9,4G,117
+T0138,Kukatpally,-68.6,110.3,5G,95
+T0139,Miyapur,-84.2,178.3,5G,298
+T0140,Ghatkesar,-65.5,261.5,4G,275
+T0141,Banjara Hills,-76.3,51.9,4G,289
+T0142,LB Nagar,-81.2,212.9,3G,116
+T0143,Ameerpet,-82.3,144.9,5G,203
+T0144,LB Nagar,-67.9,28.3,4G,185
+T0145,Hyderabad North,-77.7,164.5,5G,55
+T0146,Hyderabad North,-75.7,286.7,5G,257
+T0147,Ameerpet,-74.6,60.4,5G,73
+T0148,Ameerpet,-78.7,141.2,3G,225
+T0149,Ghatkesar,-74.8,71.1,5G,280
+T0150,Ameerpet,-81.2,112.5,4G,143
+T0151,Secunderabad,-80.5,264.6,3G,222
+T0152,LB Nagar,-91.2,128.3,3G,62
+T0153,Miyapur,-77.0,262.1,4G,246
+T0154,Uppal,-97.2,238.7,4G,74
+T0155,Ameerpet,-77.2,121.0,4G,197
+T0156,Kukatpally,-82.8,109.8,5G,167
+T0157,Hyderabad North,-76.3,78.3,5G,131
+T0158,Secunderabad,-90.5,75.5,5G,160
+T0159,Banjara Hills,-101.2,178.3,3G,131
+T0160,Uppal,-83.5,148.4,5G,115
+T0161,Miyapur,-90.5,100.1,4G,251
+T0162,Uppal,-97.8,26.1,4G,296
+T0163,Ameerpet,-72.3,158.5,4G,94
+T0164,Ghatkesar,-64.0,112.4,4G,163
+T0165,Hyderabad North,-88.0,134.4,5G,224
+T0166,Hyderabad North,-80.8,174.4,3G,112
+T0167,Banjara Hills,-83.1,50.1,4G,125
+T0168,Ghatkesar,-86.6,27.3,5G,288
+T0169,LB Nagar,-73.4,333.7,5G,254
+T0170,Hyderabad South,-69.9,109.5,4G,163
+T0171,Secunderabad,-88.7,51.4,4G,160
+T0172,Hyderabad North,-79.6,34.0,4G,298
+T0173,Kukatpally,-67.2,348.8,4G,232
+T0174,Hyderabad North,-73.1,93.8,3G,252
+T0175,Uppal,-71.6,242.7,4G,196
+T0176,Hyderabad North,-66.3,159.7,4G,84
+T0177,Hyderabad North,-66.5,111.2,5G,280
+T0178,Hyderabad South,-69.7,212.0,3G,102
+T0179,Hyderabad South,-78.6,40.7,4G,75
+T0180,Miyapur,-83.8,34.7,4G,287
+T0181,LB Nagar,-79.0,110.6,4G,63
+T0182,Kukatpally,-85.3,42.6,4G,167
+T0183,Hyderabad North,-99.5,103.5,4G,94
+T0184,Hyderabad North,-82.8,218.3,5G,221
+T0185,Secunderabad,-76.4,160.6,4G,265
+T0186,Hyderabad South,-85.9,256.4,4G,282
+T0187,Kukatpally,-81.9,165.6,3G,242
+T0188,Banjara Hills,-81.5,229.4,4G,100
+T0189,Miyapur,-66.4,144.9,4G,220
+T0190,LB Nagar,-83.6,102.8,4G,168
+T0191,Ghatkesar,-66.4,268.4,3G,263
+T0192,LB Nagar,-107.1,93.3,4G,200
+T0193,Uppal,-66.5,177.5,3G,233
+T0194,Hyderabad North,-67.0,211.5,5G,295
+T0195,Miyapur,-71.0,217.3,4G,68
+T0196,Uppal,-100.1,56.8,3G,131
+T0197,Kukatpally,-69.8,234.2,4G,125
+T0198,Ghatkesar,-80.5,71.7,4G,232
+T0199,Hyderabad South,-105.3,214.9,3G,269
+T0200,Miyapur,-67.0,192.8,5G,141
+T0201,Miyapur,-65.6,215.5,5G,237
+T0202,Hyderabad North,-99.0,53.6,4G,236
+T0203,Ameerpet,-78.2,197.0,4G,82
+T0204,Miyapur,-66.1,236.8,5G,196
+T0205,Secunderabad,-67.7,165.5,4G,77
+T0206,Ghatkesar,-71.6,84.5,4G,172
+T0207,Ghatkesar,-106.5,223.6,4G,229
+T0208,Secunderabad,-72.7,159.1,4G,175
+T0209,Banjara Hills,-82.2,16.0,3G,226
+T0210,Secunderabad,-70.0,78.3,4G,86
+T0211,Secunderabad,-77.4,107.9,3G,203
+T0212,Ghatkesar,-80.2,270.5,4G,148
+T0213,LB Nagar,-73.6,256.4,5G,147
+T0214,Ghatkesar,-81.7,256.2,4G,176
+T0215,Ameerpet,-80.2,168.6,4G,276
+T0216,Hyderabad North,-85.6,223.1,4G,217
+T0217,Uppal,-96.1,58.7,4G,129
+T0218,LB Nagar,-74.3,150.5,5G,87
+T0219,Hyderabad South,-88.1,186.1,3G,126
+T0220,Uppal,-82.0,64.0,5G,175
+T0221,Hyderabad North,-77.1,166.8,4G,136
+T0222,Ameerpet,-100.9,284.9,4G,103
+T0223,Ameerpet,-98.6,194.7,4G,199
+T0224,Hyderabad South,-83.0,223.4,5G,65
+T0225,LB Nagar,-75.5,46.2,5G,77
+T0226,Banjara Hills,-72.6,274.6,3G,289
+T0227,Secunderabad,-95.9,135.1,4G,212
+T0228,LB Nagar,-73.6,88.5,5G,237
+T0229,Banjara Hills,-82.5,136.0,4G,222
+T0230,Ameerpet,-88.8,31.2,5G,95
+T0231,Ghatkesar,-86.5,233.8,5G,121
+T0232,Hyderabad North,-72.0,123.2,5G,285
+T0233,Hyderabad South,-77.3,90.9,5G,232
+T0234,Hyderabad North,-79.5,136.6,4G,296
+T0235,Kukatpally,-77.6,239.4,5G,263
+T0236,Kukatpally,-70.7,160.5,4G,134
+T0237,LB Nagar,-81.0,37.2,5G,75
+T0238,Ameerpet,-79.5,187.2,4G,281
+T0239,Ameerpet,-68.6,75.7,5G,134
+T0240,Secunderabad,-83.3,22.5,3G,202
+T0241,Secunderabad,-73.8,269.7,3G,282
+T0242,Secunderabad,-85.0,186.6,3G,114
+T0243,Ghatkesar,-84.2,143.7,5G,183
+T0244,Uppal,-81.0,122.4,5G,200
+T0245,Miyapur,-74.8,261.8,5G,164
+T0246,Uppal,-68.1,397.0,3G,113
+T0247,Hyderabad North,-79.0,185.9,4G,136
+T0248,Uppal,-95.0,67.6,3G,220
+T0249,Ghatkesar,-73.7,137.6,3G,156
+T0250,Hyderabad North,-55.5,184.4,5G,200
+T0251,Uppal,-78.9,38.0,4G,145
+T0252,Ghatkesar,-97.1,176.8,4G,207
+T0253,Miyapur,-78.3,184.9,3G,126
+T0254,Uppal,-80.0,256.1,4G,284
+T0255,Ghatkesar,-80.9,247.8,3G,195
+T0256,Secunderabad,-70.5,158.9,4G,136
+T0257,Ameerpet,-66.2,271.2,4G,256
+T0258,Secunderabad,-73.2,312.9,3G,274
+T0259,Ameerpet,-81.3,152.2,5G,198
+T0260,Hyderabad South,-68.7,183.5,5G,106
+T0261,Hyderabad South,-94.9,8.6,5G,152
+T0262,Hyderabad South,-87.2,33.9,4G,200
+T0263,Miyapur,-86.0,82.9,5G,140
+T0264,Secunderabad,-80.3,114.5,4G,94
+T0265,Ameerpet,-74.9,62.3,3G,221
+T0266,Ghatkesar,-82.0,147.1,3G,259
+T0267,Hyderabad North,-89.1,116.9,4G,137
+T0268,Ghatkesar,-70.3,235.7,5G,164
+T0269,Hyderabad North,-82.4,112.0,5G,96
+T0270,Kukatpally,-79.0,32.9,4G,217
+T0271,Ghatkesar,-74.5,160.1,3G,228
+T0272,Uppal,-79.6,148.9,4G,219
+T0273,Uppal,-79.6,81.0,4G,184
+T0274,LB Nagar,-69.7,157.6,5G,99
+T0275,Secunderabad,-78.5,64.0,5G,225
+T0276,Hyderabad North,-71.4,176.4,5G,133
+T0277,Hyderabad North,-74.6,360.6,5G,140
+T0278,Secunderabad,-59.8,5.6,5G,183
+T0279,Miyapur,-75.9,108.7,5G,140
+T0280,LB Nagar,-73.6,95.9,4G,186
+T0281,Miyapur,-69.0,115.3,4G,294
+T0282,Miyapur,-79.4,231.6,4G,158
+T0283,Miyapur,-86.4,193.4,4G,106
+T0284,Secunderabad,-84.7,217.9,5G,80
+T0285,Miyapur,-84.6,152.4,4G,70
+T0286,Uppal,-89.5,44.2,4G,139
+T0287,Hyderabad South,-76.8,60.8,4G,89
+T0288,Kukatpally,-86.3,209.7,3G,161
+T0289,Hyderabad North,-78.1,163.7,3G,94
+T0290,Hyderabad North,-81.6,250.8,5G,126
+T0291,Kukatpally,-80.4,173.5,3G,226
+T0292,Secunderabad,-74.4,55.4,5G,136
+T0293,Ghatkesar,-85.4,108.2,5G,197
+T0294,Secunderabad,-73.6,195.2,4G,150
+T0295,Hyderabad North,-64.3,206.8,5G,295
+T0296,Hyderabad North,-76.6,218.4,5G,166
+T0297,Kukatpally,-87.8,66.1,5G,141
+T0298,Miyapur,-86.2,53.9,5G,194
+T0299,Secunderabad,-82.5,134.8,5G,77
+T0300,Ameerpet,-85.9,265.2,5G,218
+T0301,Kukatpally,-89.9,94.5,3G,243
+T0302,Uppal,-78.5,186.4,4G,74
+T0303,Hyderabad North,-82.2,186.4,5G,107
+T0304,Kukatpally,-78.1,210.9,4G,291
+T0305,Secunderabad,-68.1,283.2,5G,90
+T0306,Hyderabad North,-82.4,275.0,5G,183
+T0307,Ghatkesar,-91.9,102.4,4G,124
+T0308,Kukatpally,-84.0,17.8,5G,298
+T0309,LB Nagar,-72.3,95.7,4G,87
+T0310,Hyderabad North,-73.2,156.1,5G,183
+T0311,Secunderabad,-74.8,121.1,4G,222
+T0312,Hyderabad South,-86.2,307.4,5G,124
+T0313,Ameerpet,-72.5,151.5,4G,191
+T0314,Banjara Hills,-70.2,202.3,5G,115
+T0315,Miyapur,-87.0,167.4,4G,217
+T0316,Banjara Hills,-80.4,122.3,3G,52
+T0317,Secunderabad,-59.8,4.0,3G,296
+T0318,Uppal,-87.4,143.7,3G,166
+T0319,Uppal,-97.1,410.4,5G,148
+T0320,Hyderabad South,-66.2,50.4,5G,274
+T0321,Miyapur,-68.6,4.8,4G,201
+T0322,LB Nagar,-84.6,304.9,4G,68
+T0323,Hyderabad South,-81.1,209.4,4G,195
+T0324,Banjara Hills,-92.2,165.0,5G,241
+T0325,Hyderabad South,-79.1,259.0,3G,290
+T0326,Banjara Hills,-68.3,83.5,4G,165
+T0327,Hyderabad North,-85.4,141.5,3G,174
+T0328,Uppal,-71.2,226.4,5G,137
+T0329,Hyderabad North,-75.4,318.8,5G,286
+T0330,Ameerpet,-74.2,56.5,4G,84
+T0331,Miyapur,-84.8,252.5,4G,239
+T0332,LB Nagar,-83.5,180.5,5G,50
+T0333,Banjara Hills,-98.5,163.0,5G,277
+T0334,LB Nagar,-85.7,149.4,4G,202
+T0335,Banjara Hills,-68.4,39.2,5G,222
+T0336,Secunderabad,-89.3,227.0,3G,226
+T0337,Hyderabad South,-87.8,87.4,3G,175
+T0338,Ameerpet,-73.6,63.6,3G,284
+T0339,Uppal,-76.0,220.8,4G,275
+T0340,Banjara Hills,-73.1,213.1,4G,138
+T0341,LB Nagar,-91.6,156.3,5G,193
+T0342,Ameerpet,-54.4,236.4,4G,275
+T0343,Ghatkesar,-92.2,264.1,4G,270
+T0344,Ghatkesar,-78.5,254.7,4G,196
+T0345,Hyderabad North,-81.6,107.7,4G,200
+T0346,Uppal,-91.9,231.1,4G,260
+T0347,Secunderabad,-83.7,166.9,4G,74
+T0348,LB Nagar,-79.8,288.1,4G,65
+T0349,Hyderabad South,-86.5,140.1,4G,231
+T0350,Hyderabad South,-70.6,121.5,5G,292
+T0351,LB Nagar,-81.6,100.9,5G,122
+T0352,Miyapur,-93.4,165.1,5G,178
+T0353,Secunderabad,-94.3,187.3,4G,91
+T0354,Ameerpet,-73.9,188.9,4G,196
+T0355,Banjara Hills,-94.9,177.9,5G,274
+T0356,Miyapur,-76.8,203.7,5G,211
+T0357,Banjara Hills,-75.6,132.2,5G,129
+T0358,Banjara Hills,-90.0,80.2,4G,285
+T0359,Miyapur,-71.1,73.2,3G,153
+T0360,Hyderabad North,-97.2,228.0,4G,232
+T0361,Ghatkesar,-77.0,187.6,4G,195
+T0362,Banjara Hills,-80.4,1.5,5G,83
+T0363,Miyapur,-81.2,237.7,5G,138
+T0364,Miyapur,-91.8,300.4,4G,174
+T0365,Kukatpally,-89.4,92.7,4G,94
+T0366,Hyderabad North,-63.8,176.9,5G,183
+T0367,Uppal,-67.8,112.1,4G,70
+T0368,Kukatpally,-72.6,200.3,4G,171
+T0369,Kukatpally,-70.6,56.7,4G,119
+T0370,LB Nagar,-71.5,144.3,3G,145
+T0371,Ghatkesar,-83.2,228.5,4G,154
+T0372,Miyapur,-79.5,248.9,3G,97
+T0373,Ghatkesar,-94.7,184.1,5G,284
+T0374,Secunderabad,-80.9,122.9,3G,88
+T0375,LB Nagar,-68.2,22.6,3G,80
+T0376,Uppal,-86.6,89.4,4G,283
+T0377,Ghatkesar,-69.8,112.5,4G,59
+T0378,Hyderabad South,-79.1,94.2,4G,79
+T0379,Banjara Hills,-93.9,154.8,4G,298
+T0380,Secunderabad,-91.1,122.6,5G,293
+T0381,Hyderabad North,-70.8,163.8,4G,67
+T0382,Uppal,-74.5,246.2,4G,237
+T0383,Secunderabad,-79.0,117.5,4G,137
+T0384,Banjara Hills,-82.7,39.4,3G,293
+T0385,LB Nagar,-77.9,93.9,4G,174
+T0386,Banjara Hills,-71.2,196.7,4G,122
+T0387,Kukatpally,-65.2,204.2,4G,272
+T0388,Banjara Hills,-64.8,182.5,3G,64
+T0389,Kukatpally,-76.3,254.1,5G,53
+T0390,LB Nagar,-81.7,135.1,4G,240
+T0391,Ameerpet,-78.5,314.2,4G,217
+T0392,Kukatpally,-74.8,215.5,4G,58
+T0393,Hyderabad North,-74.8,51.9,4G,158
+T0394,Banjara Hills,-66.9,294.1,3G,186
+T0395,Banjara Hills,-58.8,88.6,5G,203
+T0396,Hyderabad North,-82.1,67.3,4G,181
+T0397,Hyderabad South,-58.4,191.9,3G,258
+T0398,Miyapur,-68.3,10.9,4G,65
+T0399,Ameerpet,-81.0,94.4,5G,192
+T0400,Uppal,-65.0,274.6,3G,148
+T0401,Kukatpally,-63.1,194.5,4G,170
+T0402,Hyderabad North,-84.6,215.0,5G,101
+T0403,LB Nagar,-62.7,97.4,4G,118
+T0404,Kukatpally,-69.2,26.9,4G,296
+T0405,Miyapur,-56.3,206.5,4G,54
+T0406,LB Nagar,-84.2,224.4,4G,69
+T0407,Secunderabad,-83.5,220.8,5G,128
+T0408,Banjara Hills,-100.3,166.7,3G,195
+T0409,Secunderabad,-74.3,72.6,5G,160
+T0410,Kukatpally,-76.2,345.0,3G,51
+T0411,Miyapur,-85.6,188.4,3G,142
+T0412,Ameerpet,-80.8,136.1,4G,62
+T0413,Kukatpally,-93.1,136.4,4G,53
+T0414,Hyderabad North,-68.0,162.0,4G,219
+T0415,Ghatkesar,-84.9,235.6,5G,158
+T0416,Kukatpally,-49.1,165.2,3G,123
+T0417,Banjara Hills,-81.8,218.7,4G,238
+T0418,Banjara Hills,-87.6,162.1,5G,144
+T0419,Kukatpally,-84.1,141.0,5G,154
+T0420,LB Nagar,-94.1,201.3,5G,57
+T0421,Ghatkesar,-75.2,198.3,4G,116
+T0422,Hyderabad North,-84.2,136.4,4G,289
+T0423,Kukatpally,-68.7,90.1,4G,240
+T0424,LB Nagar,-82.7,177.3,4G,159
+T0425,Banjara Hills,-66.2,156.3,4G,58
+T0426,Banjara Hills,-72.4,105.6,5G,271
+T0427,Miyapur,-79.7,82.6,4G,166
+T0428,Kukatpally,-64.2,182.8,3G,60
+T0429,Ghatkesar,-70.5,194.0,5G,148
+T0430,Hyderabad South,-50.5,121.2,5G,278
+T0431,Ghatkesar,-84.1,103.6,4G,91
+T0432,Banjara Hills,-79.2,83.6,5G,190
+T0433,Banjara Hills,-64.3,180.6,3G,213
+T0434,Secunderabad,-95.4,85.7,4G,169
+T0435,Banjara Hills,-66.8,329.3,4G,190
+T0436,Hyderabad North,-75.6,117.2,5G,61
+T0437,Uppal,-88.9,44.0,4G,86
+T0438,Kukatpally,-93.6,147.6,4G,123
+T0439,Ghatkesar,-86.7,144.2,4G,297
+T0440,Uppal,-102.8,238.9,4G,122
+T0441,LB Nagar,-84.9,173.1,5G,101
+T0442,Hyderabad South,-73.8,83.3,4G,248
+T0443,Hyderabad North,-84.8,127.1,3G,179
+T0444,Ghatkesar,-66.1,176.2,5G,295
+T0445,Uppal,-63.4,23.2,5G,105
+T0446,Hyderabad South,-67.2,257.1,5G,109
+T0447,Secunderabad,-77.7,83.5,3G,72
+T0448,Hyderabad North,-103.2,263.4,4G,152
+T0449,Hyderabad North,-87.0,181.4,3G,89
+T0450,Secunderabad,-81.4,200.4,5G,113
+T0451,Kukatpally,-88.9,242.0,5G,280
+T0452,Secunderabad,-81.4,195.9,5G,134
+T0453,Hyderabad North,-63.9,203.8,4G,200
+T0454,Hyderabad North,-96.5,136.8,4G,206
+T0455,Uppal,-61.9,179.8,5G,255
+T0456,Banjara Hills,-71.2,103.0,4G,267
+T0457,Hyderabad South,-77.3,122.5,5G,228
+T0458,Secunderabad,-87.1,307.2,4G,246
+T0459,Hyderabad South,-88.7,85.3,4G,296
+T0460,Secunderabad,-96.3,162.3,4G,272
+T0461,LB Nagar,-62.8,159.1,4G,138
+T0462,Hyderabad North,-64.6,125.1,5G,80
+T0463,Banjara Hills,-94.1,191.2,4G,227
+T0464,Uppal,-85.5,197.2,3G,69
+T0465,Banjara Hills,-75.7,75.9,5G,285
+T0466,Banjara Hills,-83.0,158.1,4G,232
+T0467,Banjara Hills,-99.2,63.4,5G,258
+T0468,Hyderabad South,-86.6,213.1,3G,286
+T0469,Secunderabad,-60.5,164.1,5G,179
+T0470,Ameerpet,-85.9,156.6,4G,202
+T0471,LB Nagar,-81.6,202.7,3G,62
+T0472,Ghatkesar,-91.5,128.0,5G,171
+T0473,Banjara Hills,-74.1,223.1,4G,152
+T0474,Kukatpally,-78.8,74.1,4G,269
+T0475,Hyderabad South,-87.4,263.0,5G,155
+T0476,Uppal,-93.0,105.9,4G,168
+T0477,Ghatkesar,-66.0,14.3,3G,119
+T0478,Ameerpet,-96.1,123.7,4G,244
+T0479,Kukatpally,-75.0,114.6,3G,235
+T0480,Ameerpet,-101.5,123.1,5G,148
+T0481,Ghatkesar,-72.9,168.5,4G,131
+T0482,Banjara Hills,-70.3,237.8,4G,124
+T0483,Kukatpally,-69.1,134.7,5G,167
+T0484,Ameerpet,-81.6,94.7,5G,133
+T0485,Uppal,-64.2,59.9,5G,241
+T0486,Secunderabad,-56.9,112.5,4G,118
+T0487,Hyderabad North,-83.2,1.0,4G,260
+T0488,Secunderabad,-84.5,92.0,4G,263
+T0489,Ghatkesar,-78.5,249.5,5G,108
+T0490,Hyderabad South,-84.8,84.1,4G,237
+T0491,Hyderabad North,-86.2,200.3,4G,260
+T0492,LB Nagar,-85.4,51.9,5G,175
+T0493,Uppal,-62.8,291.7,3G,160
+T0494,LB Nagar,-72.3,297.0,4G,111
+T0495,Kukatpally,-84.8,197.3,4G,193
+T0496,Hyderabad North,-104.6,309.3,5G,177
+T0497,LB Nagar,-95.4,178.5,5G,265
+T0498,LB Nagar,-75.0,211.5,4G,154
+T0499,Ameerpet,-101.2,251.0,3G,117
+T0500,Secunderabad,-77.1,164.4,3G,64
+T0501,Ameerpet,-90.7,25.8,4G,266
+T0502,Hyderabad North,-79.1,213.1,4G,285
+T0503,Hyderabad North,-79.4,112.3,5G,232
+T0504,Ghatkesar,-78.8,118.2,5G,84
+T0505,Ameerpet,-83.9,173.8,4G,232
+T0506,Miyapur,-84.3,195.3,5G,63
+T0507,Secunderabad,-87.2,162.0,5G,226
+T0508,Hyderabad North,-75.2,200.9,4G,260
+T0509,Ghatkesar,-71.9,93.5,5G,151
+T0510,Ameerpet,-92.2,146.6,3G,149
+T0511,Secunderabad,-80.5,217.9,4G,56
+T0512,Ameerpet,-78.0,291.8,4G,79
+T0513,LB Nagar,-78.2,320.1,4G,260
+T0514,Ghatkesar,-78.3,184.6,3G,98
+T0515,Secunderabad,-84.0,217.2,3G,266
+T0516,Banjara Hills,-77.2,308.5,4G,193
+T0517,Kukatpally,-73.8,96.3,5G,160
+T0518,Kukatpally,-78.6,200.4,5G,295
+T0519,Secunderabad,-74.9,211.5,5G,281
+T0520,Ameerpet,-70.1,265.8,4G,228
+T0521,Ghatkesar,-98.5,59.0,4G,121
+T0522,Kukatpally,-70.6,74.8,4G,259
+T0523,Ghatkesar,-76.6,151.7,5G,269
+T0524,Kukatpally,-91.1,180.2,4G,129
+T0525,LB Nagar,-72.0,239.8,3G,293
+T0526,Ameerpet,-84.0,191.4,4G,132
+T0527,LB Nagar,-82.6,137.9,4G,91
+T0528,Kukatpally,-85.1,183.3,5G,66
+T0529,Banjara Hills,-77.0,174.1,5G,240
+T0530,Banjara Hills,-87.9,289.6,4G,222
+T0531,LB Nagar,-71.0,163.3,4G,254
+T0532,Banjara Hills,-81.4,119.4,3G,56
+T0533,Kukatpally,-83.6,186.0,4G,204
+T0534,Secunderabad,-72.5,165.9,4G,59
+T0535,LB Nagar,-83.2,24.3,3G,83
+T0536,Hyderabad South,-70.5,148.7,4G,85
+T0537,Ameerpet,-70.2,141.9,4G,202
+T0538,Banjara Hills,-93.3,106.5,4G,55
+T0539,Banjara Hills,-68.9,232.8,4G,201
+T0540,Hyderabad North,-94.6,87.1,4G,195
+T0541,Miyapur,-68.3,186.4,4G,264
+T0542,LB Nagar,-59.7,138.2,4G,183
+T0543,Uppal,-71.3,158.6,4G,78
+T0544,Banjara Hills,-101.6,182.9,5G,175
+T0545,Ameerpet,-69.4,45.4,4G,202
+T0546,Hyderabad South,-57.5,165.3,4G,232
+T0547,Banjara Hills,-83.0,333.1,3G,130
+T0548,Hyderabad South,-80.3,25.5,5G,223
+T0549,Kukatpally,-91.9,145.4,4G,201
+T0550,Kukatpally,-76.9,239.9,3G,124
+T0551,Miyapur,-67.3,174.1,4G,75
+T0552,Secunderabad,-73.0,205.0,4G,176
+T0553,Uppal,-48.6,40.1,5G,164
+T0554,Hyderabad North,-79.7,197.9,5G,175
+T0555,Miyapur,-96.3,89.1,4G,275
+T0556,Ghatkesar,-78.3,174.8,4G,77
+T0557,Hyderabad North,-104.2,147.6,5G,180
+T0558,LB Nagar,-85.3,332.3,4G,124
+T0559,Ameerpet,-63.8,193.7,3G,215
+T0560,Ghatkesar,-76.7,141.0,4G,238
+T0561,Ghatkesar,-78.2,29.2,3G,127
+T0562,Miyapur,-61.8,159.7,5G,228
+T0563,Secunderabad,-82.7,215.9,3G,139
+T0564,Miyapur,-67.4,143.6,5G,225
+T0565,LB Nagar,-78.7,109.5,5G,70
+T0566,Banjara Hills,-76.2,104.2,4G,103
+T0567,Banjara Hills,-92.2,192.8,4G,233
+T0568,Secunderabad,-84.8,210.8,4G,152
+T0569,LB Nagar,-94.0,258.9,3G,271
+T0570,Secunderabad,-81.0,70.4,3G,108
+T0571,Hyderabad South,-76.1,192.1,4G,121
+T0572,Banjara Hills,-91.1,140.3,4G,228
+T0573,Ghatkesar,-59.5,142.6,4G,69
+T0574,Uppal,-77.2,182.1,5G,161
+T0575,Ameerpet,-79.4,182.6,4G,273
+T0576,LB Nagar,-72.3,192.3,5G,263
+T0577,Hyderabad North,-88.3,65.4,3G,108
+T0578,Secunderabad,-78.4,90.0,4G,120
+T0579,Ameerpet,-87.2,268.9,4G,186
+T0580,Hyderabad North,-64.4,132.4,4G,158
+T0581,Ameerpet,-90.6,174.5,4G,178
+T0582,Uppal,-79.4,234.4,4G,206
+T0583,Hyderabad North,-76.7,187.1,4G,240
+T0584,Miyapur,-76.1,193.7,3G,249
+T0585,Kukatpally,-85.8,221.6,4G,105
+T0586,Miyapur,-89.0,19.3,4G,295
+T0587,Banjara Hills,-85.7,110.8,3G,245
+T0588,Kukatpally,-74.7,187.5,5G,84
+T0589,Miyapur,-81.4,261.0,4G,172
+T0590,Kukatpally,-72.0,155.3,5G,180
+T0591,Kukatpally,-75.2,82.4,4G,295
+T0592,Ghatkesar,-102.8,84.6,5G,286
+T0593,Secunderabad,-77.5,220.7,5G,153
+T0594,Secunderabad,-57.5,132.6,5G,56
+T0595,Ghatkesar,-66.7,149.4,4G,76
+T0596,Ameerpet,-75.8,199.2,3G,50
+T0597,Hyderabad South,-90.6,82.1,4G,268
+T0598,Ameerpet,-75.2,310.0,4G,257
+T0599,Hyderabad North,-72.6,91.5,4G,279
+T0600,Hyderabad North,-82.5,169.4,4G,248
+T0601,Kukatpally,-76.8,13.6,4G,221
+T0602,Miyapur,-64.9,116.2,3G,136
+T0603,Miyapur,-88.6,249.6,3G,90
+T0604,Secunderabad,-90.6,3.3,4G,172
+T0605,LB Nagar,-73.1,240.1,4G,124
+T0606,Ameerpet,-75.4,128.1,4G,91
+T0607,Banjara Hills,-69.7,189.0,4G,166
+T0608,Uppal,-74.3,202.6,4G,210
+T0609,Miyapur,-85.7,185.3,3G,227
+T0610,Uppal,-75.7,80.8,4G,112
+T0611,Kukatpally,-91.4,120.8,4G,277
+T0612,Uppal,-82.5,33.1,4G,214
+T0613,Banjara Hills,-75.0,189.3,3G,282
+T0614,Ghatkesar,-83.6,286.2,5G,236
+T0615,Banjara Hills,-55.3,4.0,3G,176
+T0616,Uppal,-98.9,89.1,5G,258
+T0617,Banjara Hills,-85.5,135.5,4G,276
+T0618,Hyderabad South,-89.4,163.9,4G,225
+T0619,Kukatpally,-87.0,220.3,5G,182
+T0620,Ameerpet,-86.4,137.8,4G,97
+T0621,Ghatkesar,-93.3,124.7,5G,273
+T0622,Miyapur,-72.5,238.3,4G,52
+T0623,Hyderabad North,-85.5,203.0,4G,165
+T0624,Ameerpet,-78.4,193.1,5G,224
+T0625,Hyderabad North,-84.3,159.0,5G,239
+T0626,Kukatpally,-86.9,228.7,5G,148
+T0627,Ghatkesar,-63.3,97.5,4G,165
+T0628,Secunderabad,-70.8,86.6,5G,63
+T0629,Miyapur,-98.7,209.7,4G,240
+T0630,Hyderabad South,-99.7,20.0,4G,161
+T0631,Secunderabad,-69.6,157.4,4G,110
+T0632,Kukatpally,-85.2,124.7,4G,208
+T0633,Ameerpet,-96.5,37.5,4G,144
+T0634,Hyderabad South,-69.5,75.5,4G,66
+T0635,Banjara Hills,-78.3,141.3,4G,173
+T0636,Uppal,-77.5,232.7,4G,73
+T0637,Hyderabad South,-71.9,97.8,4G,165
+T0638,Kukatpally,-93.1,247.1,4G,200
+T0639,LB Nagar,-96.3,155.1,4G,131
+T0640,Uppal,-64.2,254.8,5G,99
+T0641,Hyderabad North,-94.4,101.6,4G,295
+T0642,Miyapur,-92.2,146.1,4G,255
+T0643,Hyderabad North,-90.2,179.5,4G,291
+T0644,Hyderabad South,-59.2,135.6,5G,128
+T0645,Hyderabad North,-75.1,226.2,3G,128
+T0646,Kukatpally,-70.3,26.6,5G,119
+T0647,Banjara Hills,-78.0,343.8,5G,76
+T0648,Ameerpet,-86.0,218.6,4G,64
+T0649,Miyapur,-73.7,136.1,5G,99
+T0650,Hyderabad North,-95.6,105.8,5G,85
+T0651,Hyderabad North,-91.0,80.7,4G,296
+T0652,Hyderabad South,-72.7,201.6,4G,57
+T0653,Ameerpet,-93.6,229.6,4G,128
+T0654,Secunderabad,-81.9,137.0,3G,180
+T0655,Hyderabad North,-81.4,238.6,5G,239
+T0656,Kukatpally,-85.3,77.4,5G,96
+T0657,LB Nagar,-99.5,63.3,4G,254
+T0658,Miyapur,-86.3,295.1,4G,154
+T0659,Hyderabad North,-88.2,197.3,4G,147
+T0660,Kukatpally,-78.4,261.7,4G,265
+T0661,Kukatpally,-78.9,81.7,3G,281
+T0662,Miyapur,-76.2,76.1,5G,145
+T0663,Secunderabad,-86.8,121.3,4G,238
+T0664,Kukatpally,-74.8,84.1,3G,209
+T0665,LB Nagar,-95.6,206.4,4G,271
+T0666,Kukatpally,-98.2,89.9,3G,165
+T0667,Kukatpally,-103.4,56.3,4G,290
+T0668,Kukatpally,-85.0,161.4,4G,62
+T0669,Banjara Hills,-87.5,46.8,4G,50
+T0670,Banjara Hills,-72.1,6.0,4G,83
+T0671,Secunderabad,-86.5,160.7,4G,239
+T0672,Hyderabad North,-77.3,10.1,5G,128
+T0673,Kukatpally,-71.9,212.0,3G,285
+T0674,Ameerpet,-86.9,38.4,5G,127
+T0675,Hyderabad North,-77.0,29.3,4G,170
+T0676,Secunderabad,-70.0,126.5,5G,142
+T0677,Ghatkesar,-92.4,161.6,4G,147
+T0678,Hyderabad North,-79.8,189.3,4G,131
+T0679,Hyderabad North,-86.8,163.8,5G,295
+T0680,Uppal,-91.7,65.3,5G,248
+T0681,Hyderabad South,-95.4,207.0,4G,270
+T0682,Uppal,-91.9,226.8,4G,296
+T0683,LB Nagar,-79.4,53.5,3G,208
+T0684,Banjara Hills,-96.1,135.5,4G,241
+T0685,Banjara Hills,-85.5,128.0,4G,202
+T0686,Hyderabad South,-71.9,167.6,5G,87
+T0687,Miyapur,-75.5,133.6,4G,63
+T0688,Miyapur,-85.3,144.6,4G,185
+T0689,Secunderabad,-63.1,201.3,4G,140
+T0690,Hyderabad South,-61.1,60.9,5G,103
+T0691,Hyderabad North,-79.7,209.0,5G,179
+T0692,Miyapur,-104.7,241.3,5G,258
+T0693,Kukatpally,-71.1,280.7,3G,150
+T0694,Ameerpet,-102.9,21.5,5G,255
+T0695,Hyderabad North,-65.2,135.4,4G,138
+T0696,LB Nagar,-69.2,7.2,4G,105
+T0697,Kukatpally,-62.3,44.8,5G,143
+T0698,Kukatpally,-77.4,161.5,5G,142
+T0699,Hyderabad South,-83.6,118.1,5G,133
+T0700,Secunderabad,-84.5,174.0,5G,134
+T0701,LB Nagar,-85.5,188.9,4G,238
+T0702,Miyapur,-70.2,249.8,4G,294
+T0703,Hyderabad South,-72.9,154.3,4G,71
+T0704,Miyapur,-78.8,383.9,4G,84
+T0705,Hyderabad South,-87.2,174.5,4G,278
+T0706,Hyderabad South,-53.7,297.4,5G,65
+T0707,Hyderabad South,-70.9,36.6,5G,99
+T0708,Secunderabad,-96.0,258.0,4G,171
+T0709,Hyderabad South,-85.2,135.5,4G,177
+T0710,Ghatkesar,-70.7,5.9,4G,162
+T0711,Ameerpet,-88.0,183.6,4G,220
+T0712,Miyapur,-76.5,125.8,5G,66
+T0713,Hyderabad North,-70.5,196.4,5G,129
+T0714,Uppal,-113.9,230.9,5G,235
+T0715,LB Nagar,-81.1,30.9,5G,296
+T0716,Banjara Hills,-80.7,231.2,5G,179
+T0717,Secunderabad,-84.1,150.5,4G,181
+T0718,Hyderabad North,-77.0,258.2,4G,134
+T0719,Kukatpally,-73.4,133.6,4G,216
+T0720,Ghatkesar,-78.6,112.4,3G,275
+T0721,Banjara Hills,-83.7,152.2,4G,143
+T0722,Uppal,-73.7,158.1,4G,183
+T0723,Hyderabad North,-79.5,97.0,3G,130
+T0724,Banjara Hills,-82.3,110.3,3G,280
+T0725,Hyderabad North,-93.1,51.8,5G,266
+T0726,Ghatkesar,-95.6,115.2,4G,118
+T0727,Uppal,-93.3,204.1,4G,118
+T0728,Kukatpally,-77.2,139.0,4G,197
+T0729,Hyderabad South,-80.8,230.7,4G,241
+T0730,Miyapur,-94.8,135.2,4G,65
+T0731,Kukatpally,-73.5,35.5,4G,100
+T0732,Hyderabad South,-66.3,197.8,3G,154
+T0733,Secunderabad,-86.0,96.1,4G,214
+T0734,Ameerpet,-97.4,131.3,5G,281
+T0735,LB Nagar,-87.1,249.0,5G,250
+T0736,LB Nagar,-71.5,57.1,4G,246
+T0737,Miyapur,-74.5,163.2,5G,219
+T0738,Uppal,-89.2,146.8,4G,234
+T0739,Ghatkesar,-64.8,206.1,4G,115
+T0740,Uppal,-66.5,218.4,5G,58
+T0741,Ghatkesar,-87.3,171.1,4G,156
+T0742,Uppal,-87.4,121.2,3G,149
+T0743,Ameerpet,-85.9,187.9,4G,135
+T0744,Secunderabad,-85.1,256.9,5G,113
+T0745,Secunderabad,-70.5,147.8,4G,263
+T0746,Hyderabad South,-75.7,128.6,4G,71
+T0747,Banjara Hills,-71.2,181.1,4G,211
+T0748,Secunderabad,-73.3,153.1,5G,232
+T0749,Secunderabad,-62.9,43.0,3G,206
+T0750,Kukatpally,-90.6,169.1,3G,215
+T0751,Kukatpally,-76.2,42.3,4G,159
+T0752,Hyderabad South,-101.7,180.0,5G,146
+T0753,Banjara Hills,-93.2,86.2,5G,67
+T0754,Miyapur,-80.7,152.9,5G,120
+T0755,Kukatpally,-75.8,181.2,4G,242
+T0756,Miyapur,-81.0,346.3,5G,176
+T0757,Hyderabad North,-85.7,209.4,3G,146
+T0758,Kukatpally,-83.9,259.2,4G,50
+T0759,Ameerpet,-66.3,299.7,3G,265
+T0760,Banjara Hills,-83.8,189.1,5G,181
+T0761,Hyderabad South,-62.5,172.9,4G,53
+T0762,Hyderabad North,-72.1,64.7,4G,174
+T0763,Banjara Hills,-75.4,140.7,4G,131
+T0764,Ameerpet,-91.9,92.2,5G,76
+T0765,Banjara Hills,-70.6,117.9,3G,220
+T0766,Ameerpet,-84.9,299.7,4G,108
+T0767,Ameerpet,-91.9,159.2,3G,81
+T0768,Miyapur,-74.9,79.9,3G,210
+T0769,Uppal,-93.9,260.0,4G,77
+T0770,Hyderabad North,-87.6,226.4,3G,155
+T0771,Banjara Hills,-80.1,230.6,3G,154
+T0772,Ghatkesar,-57.8,10.5,5G,232
+T0773,Hyderabad North,-86.9,305.9,5G,277
+T0774,Uppal,-84.6,105.3,3G,237
+T0775,Hyderabad North,-72.7,212.2,5G,119
+T0776,Secunderabad,-92.4,351.9,4G,111
+T0777,Ghatkesar,-75.6,322.4,3G,257
+T0778,Uppal,-67.9,71.8,5G,83
+T0779,Miyapur,-83.1,34.4,5G,136
+T0780,Banjara Hills,-69.7,264.4,4G,163
+T0781,LB Nagar,-77.1,161.4,5G,155
+T0782,Uppal,-87.3,109.9,4G,265
+T0783,Hyderabad South,-82.0,199.7,3G,105
+T0784,Banjara Hills,-83.8,137.0,4G,162
+T0785,Uppal,-80.9,206.1,4G,62
+T0786,Secunderabad,-78.5,155.4,4G,233
+T0787,LB Nagar,-74.1,207.8,4G,67
+T0788,Secunderabad,-74.9,78.4,5G,231
+T0789,LB Nagar,-104.3,264.0,3G,254
+T0790,Hyderabad South,-81.0,205.8,3G,162
+T0791,Banjara Hills,-95.1,201.7,4G,278
+T0792,Miyapur,-82.8,60.6,4G,220
+T0793,Secunderabad,-81.2,286.0,3G,88
+T0794,Secunderabad,-70.2,148.9,3G,238
+T0795,Ameerpet,-80.3,208.2,4G,219
+T0796,LB Nagar,-77.4,124.2,4G,258
+T0797,Kukatpally,-72.1,170.9,4G,128
+T0798,Banjara Hills,-67.7,173.8,3G,195
+T0799,LB Nagar,-81.2,75.6,5G,200
+T0800,Ameerpet,-79.1,196.6,4G,231
+T0801,Hyderabad North,-79.9,307.2,4G,292
+T0802,LB Nagar,-85.4,193.2,3G,79
+T0803,Miyapur,-87.7,73.4,4G,299
+T0804,Banjara Hills,-102.7,202.0,4G,147
+T0805,Ameerpet,-90.8,234.8,5G,107
+T0806,Hyderabad North,-97.8,191.0,4G,245
+T0807,Ghatkesar,-67.4,144.1,4G,116
+T0808,Ameerpet,-78.1,130.6,3G,120
+T0809,Ghatkesar,-81.3,130.3,3G,297
+T0810,Banjara Hills,-87.2,205.8,3G,195
+T0811,Secunderabad,-79.7,37.4,3G,155
+T0812,Ameerpet,-88.5,120.3,5G,56
+T0813,Hyderabad South,-78.3,277.6,3G,89
+T0814,Ghatkesar,-77.5,280.7,4G,119
+T0815,Miyapur,-88.6,31.7,5G,263
+T0816,Hyderabad South,-88.8,59.5,3G,299
+T0817,Uppal,-70.4,128.4,4G,242
+T0818,Uppal,-80.5,221.4,4G,117
+T0819,Hyderabad North,-87.8,3.8,4G,287
+T0820,Secunderabad,-83.7,145.6,4G,98
+T0821,Banjara Hills,-90.1,112.1,4G,101
+T0822,Ameerpet,-80.7,256.1,3G,163
+T0823,Kukatpally,-71.7,15.8,3G,156
+T0824,Miyapur,-80.3,157.4,4G,78
+T0825,Ghatkesar,-56.4,118.5,4G,198
+T0826,Banjara Hills,-75.8,267.6,4G,267
+T0827,Hyderabad South,-77.7,197.8,3G,127
+T0828,Uppal,-89.1,103.1,4G,58
+T0829,Miyapur,-82.4,218.3,4G,224
+T0830,Kukatpally,-87.8,118.9,4G,125
+T0831,Ameerpet,-101.7,229.9,4G,91
+T0832,Hyderabad North,-70.3,131.0,4G,228
+T0833,Kukatpally,-85.1,234.4,3G,233
+T0834,Miyapur,-87.6,184.9,5G,228
+T0835,Kukatpally,-77.9,410.8,5G,247
+T0836,Miyapur,-74.9,145.8,4G,177
+T0837,Miyapur,-83.2,180.6,5G,69
+T0838,LB Nagar,-80.0,111.6,5G,265
+T0839,Ghatkesar,-72.5,150.2,4G,204
+T0840,Uppal,-83.6,66.1,5G,215
+T0841,LB Nagar,-77.0,187.2,4G,121
+T0842,Ameerpet,-96.6,257.4,3G,114
+T0843,LB Nagar,-92.4,181.7,4G,231
+T0844,Secunderabad,-73.9,44.9,3G,290
+T0845,Secunderabad,-92.9,85.9,4G,162
+T0846,Uppal,-77.7,44.4,5G,73
+T0847,Kukatpally,-81.5,228.3,5G,177
+T0848,Ghatkesar,-83.6,69.5,5G,224
+T0849,Uppal,-88.3,147.7,4G,248
+T0850,Miyapur,-70.9,137.7,4G,132
+T0851,Hyderabad South,-62.7,269.0,5G,263
+T0852,Ghatkesar,-77.0,156.8,4G,112
+T0853,Ghatkesar,-76.8,214.7,4G,234
+T0854,Miyapur,-86.8,193.7,5G,232
+T0855,Miyapur,-92.0,258.8,5G,109
+T0856,Hyderabad North,-80.4,130.9,4G,148
+T0857,Uppal,-89.7,299.6,4G,111
+T0858,Miyapur,-97.7,8.9,4G,79
+T0859,Secunderabad,-72.0,218.6,5G,270
+T0860,Ameerpet,-71.5,80.7,5G,71
+T0861,Hyderabad South,-88.6,110.6,3G,252
+T0862,Uppal,-77.6,195.6,3G,261
+T0863,Banjara Hills,-70.0,194.9,4G,175
+T0864,Secunderabad,-77.9,198.5,4G,206
+T0865,Kukatpally,-91.9,39.1,4G,292
+T0866,Miyapur,-82.3,265.9,4G,218
+T0867,Banjara Hills,-66.7,77.9,3G,91
+T0868,Miyapur,-77.5,88.6,5G,147
+T0869,Ghatkesar,-74.6,201.0,4G,242
+T0870,Secunderabad,-76.6,127.1,4G,80
+T0871,Ghatkesar,-88.6,174.7,5G,207
+T0872,Hyderabad North,-86.2,22.5,5G,161
+T0873,Ghatkesar,-76.6,172.7,4G,195
+T0874,Hyderabad North,-71.8,167.4,3G,296
+T0875,Hyderabad North,-69.0,109.2,5G,171
+T0876,Banjara Hills,-88.6,15.9,4G,66
+T0877,Miyapur,-75.7,133.0,3G,87
+T0878,Kukatpally,-68.1,147.0,4G,191
+T0879,Ghatkesar,-89.9,120.6,3G,264
+T0880,Secunderabad,-65.1,3.1,3G,266
+T0881,Hyderabad North,-63.6,277.6,5G,256
+T0882,Miyapur,-53.7,98.9,5G,159
+T0883,Hyderabad South,-77.7,132.2,4G,233
+T0884,Uppal,-77.6,42.8,3G,71
+T0885,Banjara Hills,-71.7,277.6,5G,244
+T0886,Kukatpally,-72.0,112.7,5G,105
+T0887,LB Nagar,-68.7,157.9,3G,168
+T0888,Banjara Hills,-72.2,239.7,3G,196
+T0889,Hyderabad South,-81.1,95.9,3G,106
+T0890,Uppal,-67.8,227.1,4G,221
+T0891,Hyderabad South,-90.7,14.9,3G,275
+T0892,Ghatkesar,-79.9,194.1,5G,84
+T0893,Hyderabad North,-64.4,275.8,3G,163
+T0894,Kukatpally,-92.5,103.6,5G,174
+T0895,Ameerpet,-86.8,239.5,4G,178
+T0896,Hyderabad North,-73.3,296.7,4G,101
+T0897,Ameerpet,-76.1,129.6,5G,134
+T0898,Uppal,-88.8,123.0,5G,270
+T0899,Miyapur,-84.2,78.1,4G,247
+T0900,LB Nagar,-91.8,109.2,5G,214
+T0901,Secunderabad,-70.2,84.8,4G,114
+T0902,Hyderabad North,-82.6,78.1,3G,228
+T0903,Kukatpally,-62.1,245.9,4G,178
+T0904,Hyderabad South,-79.2,86.8,4G,268
+T0905,Kukatpally,-82.2,170.7,4G,70
+T0906,Uppal,-83.2,153.1,4G,230
+T0907,Ameerpet,-82.4,269.8,4G,65
+T0908,Hyderabad South,-78.9,109.7,4G,285
+T0909,Secunderabad,-54.9,180.5,4G,172
+T0910,Secunderabad,-83.4,213.3,3G,110
+T0911,Hyderabad North,-83.1,269.2,3G,103
+T0912,Uppal,-79.3,108.6,4G,217
+T0913,Miyapur,-69.1,100.6,3G,75
+T0914,Uppal,-94.2,65.1,4G,129
+T0915,Ameerpet,-75.4,328.9,5G,269
+T0916,Kukatpally,-88.2,260.8,5G,114
+T0917,Secunderabad,-74.5,146.6,4G,149
+T0918,Kukatpally,-84.9,304.5,4G,123
+T0919,Kukatpally,-103.0,141.9,4G,241
+T0920,Kukatpally,-76.3,208.0,4G,220
+T0921,Secunderabad,-76.4,150.8,5G,66
+T0922,Banjara Hills,-85.8,181.8,4G,170
+T0923,Ghatkesar,-86.4,173.3,4G,236
+T0924,Ameerpet,-93.1,116.0,4G,72
+T0925,Banjara Hills,-72.3,237.4,4G,184
+T0926,Ameerpet,-71.2,207.3,5G,221
+T0927,Hyderabad South,-88.8,232.2,4G,230
+T0928,Uppal,-85.4,175.6,3G,120
+T0929,Uppal,-80.6,77.5,4G,157
+T0930,LB Nagar,-57.3,286.8,4G,128
+T0931,Uppal,-74.5,129.0,5G,211
+T0932,Secunderabad,-89.4,179.1,4G,95
+T0933,Miyapur,-77.0,200.8,5G,286
+T0934,Hyderabad North,-93.8,178.6,5G,245
+T0935,LB Nagar,-72.8,223.2,4G,255
+T0936,Hyderabad North,-63.2,235.9,4G,127
+T0937,Ameerpet,-63.2,132.0,4G,65
+T0938,Hyderabad North,-72.7,280.0,4G,120
+T0939,Hyderabad North,-85.8,128.6,4G,145
+T0940,LB Nagar,-93.0,176.9,4G,196
+T0941,Hyderabad South,-94.0,119.0,4G,51
+T0942,Kukatpally,-108.1,96.1,5G,59
+T0943,Uppal,-73.1,233.5,5G,227
+T0944,Uppal,-81.0,399.8,5G,174
+T0945,Secunderabad,-70.9,121.1,4G,130
+T0946,LB Nagar,-65.7,247.2,4G,278
+T0947,Secunderabad,-79.0,123.9,3G,189
+T0948,Miyapur,-78.5,149.2,5G,119
+T0949,Miyapur,-84.6,290.6,3G,199
+T0950,Secunderabad,-83.5,64.1,4G,81
+T0951,LB Nagar,-72.7,42.9,5G,154
+T0952,Secunderabad,-81.7,143.0,5G,133
+T0953,Uppal,-83.2,203.1,4G,178
+T0954,Banjara Hills,-80.2,187.1,4G,231
+T0955,Ghatkesar,-71.1,178.9,5G,288
+T0956,Hyderabad North,-86.9,152.7,4G,294
+T0957,Ghatkesar,-80.7,212.9,4G,107
+T0958,LB Nagar,-77.5,83.1,5G,247
+T0959,Ghatkesar,-68.4,89.9,3G,260
+T0960,Miyapur,-82.4,142.5,4G,195
+T0961,Ameerpet,-87.2,206.4,4G,183
+T0962,Hyderabad North,-84.8,269.2,4G,94
+T0963,Kukatpally,-69.5,79.2,5G,146
+T0964,LB Nagar,-59.7,266.6,4G,72
+T0965,Hyderabad North,-93.1,113.8,3G,72
+T0966,Ghatkesar,-91.0,139.6,4G,203
+T0967,Miyapur,-81.7,196.5,4G,254
+T0968,Hyderabad South,-78.9,133.7,5G,184
+T0969,Banjara Hills,-72.1,238.8,3G,128
+T0970,Kukatpally,-88.9,117.6,4G,93
+T0971,Banjara Hills,-90.6,118.8,4G,76
+T0972,Hyderabad North,-78.6,234.2,3G,75
+T0973,Miyapur,-82.6,89.0,4G,146
+T0974,Miyapur,-70.7,169.9,3G,256
+T0975,Ghatkesar,-75.1,17.2,4G,85
+T0976,Uppal,-74.4,295.6,5G,158
+T0977,Ghatkesar,-81.0,246.5,5G,104
+T0978,Uppal,-56.4,370.0,4G,241
+T0979,Uppal,-88.4,257.1,3G,268
+T0980,Kukatpally,-73.9,59.6,4G,234
+T0981,Ghatkesar,-92.7,203.5,4G,118
+T0982,Hyderabad South,-90.7,76.6,5G,110
+T0983,Secunderabad,-86.1,276.2,4G,179
+T0984,Secunderabad,-63.7,61.9,5G,104
+T0985,Ghatkesar,-77.4,58.1,4G,171
+T0986,Ghatkesar,-85.9,21.2,4G,146
+T0987,Banjara Hills,-76.3,110.9,4G,129
+T0988,Kukatpally,-79.6,94.8,4G,136
+T0989,Ghatkesar,-84.9,49.1,4G,87
+T0990,Banjara Hills,-94.0,309.2,5G,168
+T0991,Uppal,-65.6,192.4,3G,257
+T0992,Miyapur,-77.9,183.0,3G,127
+T0993,Miyapur,-58.3,277.1,4G,206
+T0994,Uppal,-70.6,170.5,4G,203
+T0995,LB Nagar,-74.5,90.1,4G,84
+T0996,Banjara Hills,-84.4,14.0,4G,128
+T0997,Banjara Hills,-91.0,85.6,5G,116
+T0998,Uppal,-82.2,270.4,4G,136
+T0999,Hyderabad South,-91.2,49.6,4G,206
+T1000,Ameerpet,-73.5,178.3,3G,83
