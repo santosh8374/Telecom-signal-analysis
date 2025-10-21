@@ -1,4 +1,4 @@
-# 📶 Telecom Network Signal Quality Analysis
+# 📶AI-Telecom Network Signal Quality Analysis
 
 ### 📘 Overview
 This project analyzes telecom tower data (signal strength, latency, and network type) to identify weak signal regions and overall network performance trends.
